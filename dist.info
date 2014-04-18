@@ -1,5 +1,5 @@
 name = "test5"
-version = "0.1"
+version = "0.1.8"
 
 desc  = "test bla bla"
 author = "Michal Valovic"
