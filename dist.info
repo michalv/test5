@@ -1,0 +1,10 @@
+name = "test5"
+version = "0.1"
+
+desc  = "test bla bla"
+author = "Michal Valovic"
+maintainer = "Michal Valovic"
+
+depends = {
+	"lua > 5.1"
+}
