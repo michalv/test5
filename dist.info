@@ -1,10 +1,11 @@
 name = "test5"
-version = "0.2"
+version = "0.2.8"
 
 desc  = "test bla bla"
 author = "Michal Valovic"
 maintainer = "Michal Valovic"
 
 depends = {
-	"lua > 5.1"
+	"lua > 5.1",
+	"test4 ~> 1.2"
 }
